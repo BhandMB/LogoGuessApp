@@ -19,3 +19,12 @@ JSON Parsing (for questions)
 SharedPreferences (for score saving)
 File Handling
 Basic Animations
+
+Learning Outcomes
+
+This project will help you learn:
+
+Android app lifecycle
+UI design using XML
+State management
+Debugging real-world apps
