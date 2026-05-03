@@ -5,7 +5,7 @@ A fun and interactive Logo Guessing Game Android App built using Java + Android 
 🎯 Guess logos from popular brands
 🧩 Multiple difficulty levels (Easy, Medium, Hard)
 🏆 Score tracking
-📱 Clean and responsive Android UI
+📱 Clean and responsive Android UI      
 
 🛠️ Tech Stack
 Language: Java
