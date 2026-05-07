@@ -21,6 +21,38 @@ SharedPreferences (for score saving)
 File Handling
 Basic Animations
 
+📂 Project Structure
+LogoGuessApp/
+│── app/
+│   ├── java/com/example/logoguessapp/
+│   │   ├── MainActivity.java
+│   │   ├── GameActivity.java
+│   │   ├── ResultActivity.java
+│   │   ├── adapter/
+│   │   ├── model/
+│   │   │   └── Logo.java
+│   │   ├── utils/
+│   │   │   └── ScoreManager.java
+│   │
+│   ├── res/
+│   │   ├── layout/
+│   │   │   ├── activity_main.xml
+│   │   │   ├── activity_game.xml
+│   │   │   ├── activity_result.xml
+│   │   │
+│   │   ├── drawable/
+│   │   │   └── logos/     # Logo images
+│   │   │
+│   │   ├── values/
+│   │   │   ├── strings.xml
+│   │   │   ├── colors.xml
+│   │
+│   ├── assets/
+│   │   └── questions.json
+│
+│── build.gradle
+│── README.md
+
 Learning Outcomes
 
 This project will help you learn:
