@@ -61,7 +61,3 @@ Android app lifecycle
 UI design using XML
 State management
 Debugging real-world apps
-
-
-
-==================
