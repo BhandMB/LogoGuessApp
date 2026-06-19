@@ -56,7 +56,7 @@ LogoGuessApp/
 Learning Outcomes
 
 This project will help you learn:
-
+---------------------------------
 Android app lifecycle
 UI design using XML
 State management
