@@ -1,0 +1,1 @@
+LogoGuessApp: game session accessibility
