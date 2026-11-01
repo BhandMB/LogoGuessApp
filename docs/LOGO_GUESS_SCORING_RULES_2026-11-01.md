@@ -1,0 +1,1 @@
+LogoGuessApp: scoring rules and edge cases
