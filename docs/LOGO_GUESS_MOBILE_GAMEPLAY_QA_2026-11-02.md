@@ -1,0 +1,1 @@
+LogoGuessApp: mobile gameplay QA
