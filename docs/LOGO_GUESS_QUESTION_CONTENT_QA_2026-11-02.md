@@ -1,0 +1,1 @@
+LogoGuessApp: question content QA
